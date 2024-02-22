@@ -1,0 +1,145 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+#hero {
+  background-color: #f8f8f8;
+  padding-bottom: 190px;
+}
+
+.hero {
+  display: flex;
+}
+
+.hero-nav h6 {
+  color: var(--, #161515);
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 186%; /* 44.64px */
+  padding-top: 104px;
+  margin-bottom: 53px;
+}
+
+.hero-nav h1 {
+  color: #272727;
+  font-size: 250px;
+  font-weight: 300;
+  margin-bottom: 43px;
+  margin-right: 50px;
+}
+
+.hero-nav p {
+  color: var(--, #161515);
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 155%; /* 49.6px */
+  margin-bottom: 61px;
+}
+
+.btn-buy {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 300;
+  padding: 26px 74px 35px 73px;
+  border: none;
+  background: black;
+}
+
+.btn-price {
+  color: #272727;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 186%; /* 59.52px */
+  background: #fff;
+  border: none;
+  padding: 14px 27px 23px 28px;
+}
+
+.models {
+  text-align: center;
+}
+
+.models h6 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 300;
+  padding-top: 43px;
+}
+
+.models h1 {
+  color: #000;
+  font-size: 72px;
+  font-weight: 400;
+  line-height: 112.5%; /* 81px */
+}
+
+.img-top img {
+  padding: 110px 60px 110px 71px;
+}
+
+.img-top {
+  background: #f8f8f8;
+  width: 417px;
+  margin-left: 364px;
+  margin-top: 84px;
+}
+
+.models h2 {
+  color: #000;
+  font-size: 32px;
+  font-weight: 400;
+  margin: 67px 0 17px 0;
+}
+
+.models h5 {
+  color: var(--, #161515);
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 155%; /* 49.6px */
+}
+
+.img-bottom img {
+  padding: 65px 2px;
+}
+
+.img-bottom {
+  background: #f8f8f8;
+  width: 496px;
+  margin-left: 322px;
+  margin-top: 85px;
+}
+
+hr {
+  width: 190px;
+  margin-left: 480px;
+  margin-top: -4px;
+  margin-bottom: 49px;
+}
+
+.models p {
+  color: var(--, #161515);
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 170%; /* 40.8px */
+  margin-bottom: 142px;
+}
+
+.models p span {
+  color: #bb8b5d;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 170%;
+  text-decoration-line: underline;
+}
